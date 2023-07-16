@@ -1,0 +1,7 @@
+source "C:/Espressif/frameworks/esp-idf-v4.4.4/components/app_update/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.4/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.4/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.4/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.4/components/partition_table/Kconfig.projbuild"
+source "D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/main/Kconfig.projbuild"
+source "D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/components/ssd1306/Kconfig.projbuild"

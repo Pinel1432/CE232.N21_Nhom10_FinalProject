@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/CMakeFiles/bootloader
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/CMakeFiles/bootloader.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/CMakeFiles/bootloader-complete.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/WorkSpace/Shool_Practice/ESP32/Test_LAB4_WiFi/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
